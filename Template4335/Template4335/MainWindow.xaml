@@ -38,6 +38,7 @@
             <RowDefinition Height="*"></RowDefinition>
 
         </Grid.RowDefinitions>
+        <Button Content="dont press me" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="22" VerticalAlignment="Center" RenderTransformOrigin="0.429,-0.316" Click="Button_Click"/>
 
     </Grid>
 </Window>

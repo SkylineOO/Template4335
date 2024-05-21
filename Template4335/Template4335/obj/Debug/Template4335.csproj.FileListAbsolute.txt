@@ -1,0 +1,17 @@
+D:\download\Template4335\Template4335\Template4335\bin\Debug\Template4335.exe.config
+D:\download\Template4335\Template4335\Template4335\bin\Debug\Template4335.exe
+D:\download\Template4335\Template4335\Template4335\bin\Debug\Template4335.pdb
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335.csproj.AssemblyReference.cache
+D:\download\Template4335\Template4335\Template4335\obj\Debug\MainWindow.g.cs
+D:\download\Template4335\Template4335\Template4335\obj\Debug\App.g.cs
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335_MarkupCompile.cache
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335_MarkupCompile.lref
+D:\download\Template4335\Template4335\Template4335\obj\Debug\MainWindow.baml
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335.g.resources
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335.Properties.Resources.resources
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335.csproj.GenerateResource.cache
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335.csproj.CoreCompileInputs.cache
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335.exe
+D:\download\Template4335\Template4335\Template4335\obj\Debug\Template4335.pdb
+D:\download\Template4335\Template4335\Template4335\obj\Debug\4335_fakhretdenov.g.cs
+D:\download\Template4335\Template4335\Template4335\obj\Debug\4335_fakhretdenov.baml

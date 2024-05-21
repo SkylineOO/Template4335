@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download\\Template4335\\Template4335\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|d:\\download\\template4335\\template4335\\template4335\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|solutionrelative:template4335\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|d:\\download\\template4335\\template4335\\template4335\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|solutionrelative:template4335\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|d:\\download\\template4335\\template4335\\template4335\\4335_fakhretdenov.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|solutionrelative:template4335\\4335_fakhretdenov.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|d:\\download\\template4335\\template4335\\template4335\\4335_fakhretdenov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|solutionrelative:template4335\\4335_fakhretdenov.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|D:\\download\\Template4335\\Template4335\\template4335\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F6246FE-8CFD-4692-B934-8EA4561D4289}|Template4335\\Template4335.csproj|solutionrelative:template4335\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4335_fakhretdenov.xaml.cs",
+              "DocumentMoniker": "D:\\download\\Template4335\\Template4335\\Template4335\\4335_fakhretdenov.xaml.cs",
+              "RelativeDocumentMoniker": "Template4335\\4335_fakhretdenov.xaml.cs",
+              "ToolTip": "D:\\download\\Template4335\\Template4335\\Template4335\\4335_fakhretdenov.xaml.cs",
+              "RelativeToolTip": "Template4335\\4335_fakhretdenov.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAD4vx8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:08:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4335_fakhretdenov.xaml",
+              "DocumentMoniker": "D:\\download\\Template4335\\Template4335\\Template4335\\4335_fakhretdenov.xaml",
+              "RelativeDocumentMoniker": "Template4335\\4335_fakhretdenov.xaml",
+              "ToolTip": "D:\\download\\Template4335\\Template4335\\Template4335\\4335_fakhretdenov.xaml",
+              "RelativeToolTip": "Template4335\\4335_fakhretdenov.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T20:44:30.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\download\\Template4335\\Template4335\\Template4335\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Template4335\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\download\\Template4335\\Template4335\\Template4335\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Template4335\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAjwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:39:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\download\\Template4335\\Template4335\\Template4335\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Template4335\\MainWindow.xaml",
+              "ToolTip": "D:\\download\\Template4335\\Template4335\\Template4335\\MainWindow.xaml",
+              "RelativeToolTip": "Template4335\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T20:29:14.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\download\\Template4335\\Template4335\\Template4335\\App.xaml",
+              "RelativeDocumentMoniker": "Template4335\\App.xaml",
+              "ToolTip": "D:\\download\\Template4335\\Template4335\\Template4335\\App.xaml",
+              "RelativeToolTip": "Template4335\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-21T20:29:19.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 30,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

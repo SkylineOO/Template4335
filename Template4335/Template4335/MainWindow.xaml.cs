@@ -24,5 +24,12 @@ namespace Template4335
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            _4335_fakhretdenov secondWindow = new _4335_fakhretdenov();
+            secondWindow.Show();
+            this.Close();
+        }
     }
 }
